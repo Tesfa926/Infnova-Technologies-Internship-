@@ -12,11 +12,11 @@ export const courses =[
     rating: 4.6,
     price: 49.99,
     originalPrice: 84.99,
-    image: "../src/images/web-dev.jpg",
+    image: "/images/web-dev.jpg",
     description: "Learn how modern companies deploy and scale applications in the cloud...",
     learningPoints: ["AWS", "Docker", "CI/CD", "Infrastructure", "System Design"],
     courseInclusions: ["24 hours video", "12 resources", "Lifetime access"],
-    instructorImage:"../src/images/lidetu.jpg"
+    instructorImage:"/images/lidetu.jpg"
   },
     
   {
@@ -32,11 +32,11 @@ export const courses =[
     rating: 4.8,
     price: 49.99,
     originalPrice: 84.99,
-    image: "../src/images/machine-learning.jpg",
+    image: "/images/machine-learning.jpg",
     description: "Dive deep into supervised and unsupervised learning algorithms with real-world datasets...",
     learningPoints: ["Scikit-Learn", "Neural Networks", "Data Cleaning", "Model Deployment"],
     courseInclusions: ["25 hours video", "10 resources", "Lifetime access"],
-    instructorImage:"../src/images/bereket.jpg"
+    instructorImage:"/images/bereket.jpg"
   },
   {
     id: "ui-ux-design-modern",
@@ -51,11 +51,11 @@ export const courses =[
     rating: 4.7,
     price: 49.99,
     originalPrice: 84.99,
-    image: "../src/images/ui-ux-design.jpg",
+    image: "/images/ui-ux-design.jpg",
     description: "Learn the fundamentals of user interface and experience design from wireframing to high-fidelity prototyping...",
     learningPoints: ["Figma", "User Research", "Wireframing", "Prototyping", "Design Systems"],
     courseInclusions: ["20 hours video", "20 resources", "Lifetime access"],
-    instructorImage:"../src/images/hana.jpg"
+    instructorImage:"/images/hana.jpg"
 
   },
   {
@@ -71,11 +71,11 @@ export const courses =[
     rating: 4.6,
     price: 49.99,
     originalPrice: 84.99,
-    image: "../src/images/cloud-engineering.jpg",
+    image: "/images/cloud-engineering.jpg",
     description: "Learn how modern companies deploy and scale applications in the cloud. Build resilient infrastructure, automate deployments, and understand cost-efficient architecture.Learn how modern companies deploy and scale applications in the cloud...",
     learningPoints: ["AWS", "Docker", "CI/CD", "Infrastructure", "System Design"],
     courseInclusions: ["24 hours video", "12 resources", "Lifetime access"],
-    instructorImage:"../src/images/instructor-samuel.jpg"
+    instructorImage:"/images/instructor-samuel.jpg"
   },
   {
     id: "mobile-app-flutter",
@@ -90,11 +90,11 @@ export const courses =[
     rating: 4.8,
     price: 49.99,
     originalPrice: 84.99,
-    image: "../src/images/mobile-dev.jpg",
+    image: "/images/mobile-dev.jpg",
     description: "Build beautiful, natively compiled applications for mobile, web, and desktop from a single codebase...",
     learningPoints: ["Dart", "Flutter Widgets", "State Management", "API Integration"],
     courseInclusions: ["28 hours video", "18 resources", "Lifetime access"],
-    instructorImage:"../src/images/nati.jpg"
+    instructorImage:"/images/nati.jpg"
   },
   {
     id: "cybersecurity-foundations",
@@ -109,11 +109,11 @@ export const courses =[
     rating: 4.7,
     price: 49.99,
     originalPrice: 84.99,
-    image: "../src/images/cybersecurity.jpg",
+    image: "/images/cybersecurity.jpg",
     description: "Understand the core principles of digital security and how to protect organizations from modern cyber threats...",
     learningPoints: ["Network Security", "Cryptography", "Ethical Hacking", "Risk Management"],
     courseInclusions: ["15 hours video", "8 resources", "Lifetime access"],
-    instructorImage:"../src/images/meklit.jpg"
+    instructorImage:"/images/meklit.jpg"
   },
   {
     id: "data-analytics-python",
@@ -128,11 +128,11 @@ export const courses =[
     rating: 4.8,
     price: 49.99,
     originalPrice: 84.99,
-    image: "../src/images/data-analytics.jpg",
+    image: "/images/data-analytics.jpg",
     description: "Start your data journey by learning how to analyze, visualize, and interpret data using Python's ecosystem...",
     learningPoints: ["Python", "Pandas", "Matplotlib", "Data Visualization"],
     courseInclusions: ["18 hours video", "14 resources", "Lifetime access"],
-    instructorImage:"../src/images/abel.jpg"
+    instructorImage:"/images/abel.jpg"
   },
   {
     id: "blockchain-fintech-systems",
@@ -147,10 +147,10 @@ export const courses =[
     rating: 4.5,
     price: 49.99,
     originalPrice: 84.99,
-    image: "../src/images/blockchain.jpg",
+    image: "/images/blockchain.jpg",
     description: "Explore the technical foundations of blockchain technology and its applications in the evolving fintech landscape...",
     learningPoints: ["Ethereum", "Smart Contracts", "DeFi", "Solidity", "Cryptography"],
     courseInclusions: ["26 hours video", "10 resources", "Lifetime access"],
-    instructorImage:"../src/images/yonas.jpg"
+    instructorImage:"/images/yonas.jpg"
   }
 ];
